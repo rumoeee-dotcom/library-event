@@ -1,0 +1,6 @@
+{
+  "name": "서산시 도서관 행사 통합 예약",
+  "description": "서산시 관내 도서관의 문화 행사, 인문학 특강, 독서 프로그램을 한눈에 확인하고 간편하게 예약하는 모바일 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
